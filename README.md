@@ -22,7 +22,7 @@ Analyze logs effortlessly and finally make sense of all your data.
 Learn more in the [documentation](https://phospho-app.github.io/docs/welcome).
 
 <div align="center">
-<img src="./clustering-demo.gif" alt="phospho platform">
+<img src="./clustering-demo.gif" alt="platform">
 </div>
 
 ## Demo 🧪
